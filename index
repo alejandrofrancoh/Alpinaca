@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagen Alpina</title>
+    <style>
+        body {
+            background-color: #1450C9; /* Un azul de la paleta de Alpina */
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 20px;
+            border-radius: 10px;
+            display: inline-block;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>¡Una imagen inspirada en Alpina!</h1>
+        <p>A continuación, la imagen que has solicitado:</p>
+        <img src="https://co.pinterest.com/pin/725853664983285900/" alt="Imagen decorada de Alpina">
+    </div>
+
+</body>
+</html>
